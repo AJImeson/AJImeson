@@ -16,7 +16,7 @@
 - Deployed lightweight Kubernetes (k3s) nodes to Azure and Hetzner through
   automation
 
-## Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="24" align="top"/>
+## Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="24" align="top"/>
 
 - Configured and written manifests for school projects
 - Deployed working tech stack for Chas Challenge (Volunti)
