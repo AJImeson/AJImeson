@@ -2,7 +2,7 @@
 
 ### DevOps Engineer Student | CI/CD, GitOps, SecOps, Observability | Ethical Hacking
 
-## Linux
+## Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="24" align="top"/>
 
 - Daily: Debian based distro
 - Homelab: Arch based distro
