@@ -42,8 +42,11 @@
 
 ## About me
 
-Stockholm native that grew up in a family with British roots. Worked many years in the Fitness Industry as a Personal Trainer, with an interest in body function and athletic performance.
+Stockholm native that grew up in a family with British roots.
 
+Went to culinary school during High School period, and worked in the business for about 10 years 
+
+Worked many years in the Fitness Industry as a Personal Trainer, with an interest in body function and athletic performance.
 I've been practicing Muay Thai, Olympic Weightlifting and currently train Calisthenics with Handstands and Muscle ups as focus
 
 Free time: Homebrewing, a hobby inherited from my father and has been a continuous interest for over 10 years. Growing, primarily Tobacco for my own pipe blends 
