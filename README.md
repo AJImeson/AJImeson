@@ -7,7 +7,7 @@
 - Daily: Debian based distro
 - Homelab: Arch based distro
 
-## Cloud & Infrastructure
+## Cloud & Infrastructure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="24" align="top"/>
 
 - Working knowledge of Azure cloud environment
 - Working knowledge of Hetzner cloud environment
@@ -16,23 +16,23 @@
 - Deployed lightweight Kubernetes (k3s) nodes to Azure and Hetzner through
   automation
 
-## Kubernetes
+## Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="24" align="top"/>
 
 - Configured and written manifests for school projects
 - Deployed working tech stack for Chas Challenge (Volunti)
 - Working knowledge of Helm & ArgoCD
 
-## Observability
+## Observability <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="24" align="top"/>
 
 - Prometheus and Grafana configuration for school projects and homelab on
   Raspberry Pi
 
-## CI/CD & GitOps
+## CI/CD & GitOps <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" align="top"/>
 
 - Frequent use of GitLab CI/CD for automating tasks, delivery/deployment and
   integration in different projects
 
-## Homelab & Personal projects
+## Homelab & Personal projects <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="24" align="top"/>
 
 - Ethical hacking: generally interested in exploits and network
   vulnerabilities, and the risks involved in deploying a stack. Using
