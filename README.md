@@ -2,9 +2,9 @@
 
 ### DevOps Engineer Student | CI/CD, GitOps, SecOps, Observability | Ethical Hacking
 
-## Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="24" align="top"/>
+## Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40" alt="Fedora">
 
-- Daily: Ubuntu
+- Daily: Ubuntu, Fedora
 - Homelab: Arch
 
 ## Cloud & Infrastructure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="24" align="top"/>
