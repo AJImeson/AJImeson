@@ -2,7 +2,7 @@
 
 ### DevOps Engineer Student | CI/CD, GitOps, SecOps, Observability | Ethical Hacking
 
-## Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40" alt="Fedora">
+## Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="28" height="28" alt="Fedora">
 
 - Daily: Ubuntu, Fedora
 - Homelab: Arch
