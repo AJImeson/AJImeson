@@ -9,8 +9,8 @@
 
 ## Cloud & Infrastructure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="24" align="top"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="24" align="top"/>
 
-- Working knowledge of Azure cloud environment
-- Working knowledge of Hetzner cloud environment
+- Working knowledge of Azure cloud environment: Azure Resource Manager, AKS, Entra ID, Priviliged Identity Manager, SQL Server
+- Working knowledge of Hetzner cloud environment: School environment and related projects 
 - Terraform and Ansible to set up virtual machines and virtual networks,
   deployed to Azure and Hetzner through automation
 - Deployed lightweight Kubernetes (k3s) nodes to Azure and Hetzner through
@@ -31,6 +31,12 @@
 
 - Frequent use of GitLab CI/CD for automating tasks, delivery/deployment and
   integration in different projects
+
+## Scripting <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="30" />
+
+- Bash: automation scripts, system administration, CI pipeline steps
+- PowerShell: Windows administration and automation
 
 ## Homelab & Personal projects <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="24" align="top"/>
 
