@@ -32,8 +32,7 @@
 - Frequent use of GitLab CI/CD for automating tasks, delivery/deployment and
   integration in different projects
 
-## Scripting <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="30" />
+## Scripting <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="30" />
 
 - Bash: automation scripts, system administration, CI pipeline steps
 - PowerShell: Windows administration and automation
